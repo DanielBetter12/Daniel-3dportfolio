@@ -403,14 +403,12 @@ section {
 .marquee-box {
   display: flex;
   align-items: center;
-  width: 200%;
-  height: 100%;
   position: absolute;
   overflow: hidden;
   animation: marquee 60s linear infinite;
 }
 .marquee-item {
-  float: left;
+  float: right;
 }
 @keyframes marquee {
   0% {

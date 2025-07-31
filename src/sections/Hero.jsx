@@ -4,6 +4,7 @@ import Button from "../components/Button.jsx";
 import HeroExperience from "../components/HeroModels/HeroExperience.jsx";
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';
+import AnimatedCounter from "../components/AnimatedCounter.jsx";
 
 
 const Hero = () => {
@@ -57,7 +58,7 @@ const Hero = () => {
                             Hi, I'm Daniel, a developer based in Denver, Colorado with a passion for code.
                         </p>
                         <Button
-                        className="md:w-80 md:h-16 w-60 h-12"
+                        className="z-10 md:w-80 md:h-16 w-60 h-12"
                         id="button"
                         text="See my Work"
                         />
@@ -71,6 +72,7 @@ const Hero = () => {
                    </div>
                 </figure>
             </div>
+<AnimatedCounter />
         </section>
     );
 };

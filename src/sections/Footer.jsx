@@ -8,7 +8,7 @@ const Footer = () => {
                 <div className="flex flex-col justify-center">
                     <a className="logo" href="https://docs.google.com/document/d/e/2PACX-1vSJSEDj2eOH7z9JgDnNpd03rPKlzq7H6uRkP0w5XrG0DqBwqvPARc79djMiQvMd-A/pub" target="_blank">
                         <div className="logo">
-                            <span className="logo card">Resume</span>
+                            <span className="logo card text-amber-100">Resume</span>
                         </div>
                     </a>
                 </div>
@@ -24,7 +24,7 @@ const Footer = () => {
                     ))}
                     <div className="icon">
                         <a href="https://github.com/DanielBetter12" target="_blank">
-                            <img src="/images/GitHub.png" alt="github"/>
+                            <img src="/images/github-mark-white.png" alt="github"/>
                         </a>
                     </div>
                 </div>

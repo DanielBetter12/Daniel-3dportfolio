@@ -40,8 +40,10 @@ const ShowcaseSection = () => {
 
     return (
         <section id="work" ref={sectionRef} className="app-showcase">
+
         <div className="w-full" >
             <div className="showcaselayout">
+                <h1 className="font-bold text-4xl">Projects</h1>
                 {/*LEFT*/}
                 <div className="first-project-wrapper" ref={project1Ref}>
                     <div className="image-wrapper">

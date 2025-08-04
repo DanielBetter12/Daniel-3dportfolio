@@ -12,6 +12,7 @@ return (
 const LogoSection = () => {
     return (
         <div className="md:my-20 my-10 relative">
+            <h1 className="flex justify-items-center pl-35 font-bold text-4xl">Clients</h1>
             <div className="gradient-edge"/>
             <div className="gradient-edge" />
 

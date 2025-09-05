@@ -54,7 +54,7 @@ const ShowcaseSection = () => {
                         </div>
                         <div className="text-content">
                             <h2>An app that uses A.I. to scan the users skin to develop a skincare routine</h2>
-                            <p className="text-white-50 md:text-xl">Designed and implemented a clean, mobile-responsive
+                            <p className="text-white-50 md:text-xl">A paid internship project where I designed and implemented a clean, mobile-responsive
                                 UI using React.js and Tailwind CSS, optimized for performance and user experience.
                                 Utilized the WebCam API to capture user facial images securely, enabling personalized
                                 skincare insights without storing sensitive data.</p>

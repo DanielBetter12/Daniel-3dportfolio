@@ -58,7 +58,7 @@ const Hero = () => {
                             Hi, I'm Daniel, a developer based in Denver, Colorado with a passion for code.
                         </p>
                         <Button
-                        className="z-10 md:w-80 md:h-16 w-60 h-12"
+                        className="z-10 md:w-80 md:h-16 w-80 h-40"
                         id="button"
                         text="See my Work"
                         />

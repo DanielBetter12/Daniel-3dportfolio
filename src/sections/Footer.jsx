@@ -6,7 +6,7 @@ const Footer = () => {
         <footer className="footer">
             <div className="footer-container">
                 <div className="flex flex-col justify-center">
-                    <a className="logo" href="https://drive.google.com/file/d/1rTVsopqxb-CPqbW3IPBc_Ux61Kk5GgDE/view?usp=sharing" target="_blank">
+                    <a className="logo" href="https://docs.google.com/document/d/e/2PACX-1vTc_FgctcLm8u7EPMlJJkgi_mmLLIwxyZoPHffgfArtYg9Du6J4PPhSuP5-cxbeMA/pub" target="_blank">
                         <div className="logo">
                             <span className="logo card text-amber-100">Resume</span>
                         </div>

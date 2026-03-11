@@ -78,6 +78,13 @@ const ShowcaseSection = () => {
                                 </a>
                             </div>
                             <h2>Google Drive Clone</h2>
+                        </div> <div className="project" ref={project3Ref}>
+                            <div className="image-wrapper bg-[#ffe7eb] hover:opacity-25">
+                                <a href="https://signalist-stock-app-sepia.vercel.app/sign-in" target="_blank">
+                                    <img src="/images/signalist.png" alt="storeit"/>
+                                </a>
+                            </div>
+                            <h2>Signalist AI Stockmarket App</h2>
                         </div>
                     </div>
                 </div>
